@@ -86,6 +86,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BinHyun/BinHyun/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BinHyun/output/snake.svg" alt="Snake animation" />
 
 ###
