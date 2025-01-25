@@ -82,10 +82,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/BinHyun/output/snake.svg" alt="Snake animation" />
+</div?
 
 ###
