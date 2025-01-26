@@ -7,7 +7,7 @@
 |:--:|:--:|
 ###
 
-<p align="left">What I Can Do</p>
+###What I Can Do
 
 ###
 
