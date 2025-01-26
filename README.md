@@ -5,8 +5,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=BinHyun&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats" style="height: 200px;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinHyun&layout=compact&title_color=4C77FF" alt="Top Languages" style="height: 200px;" /> |
 |:--:|:--:|
 
-### **What I Can Do**
-
+### **😎What I Can Do**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -22,11 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<p align="left">###What I Am Learning</p>
-
-###
+### **📖What I Am Learning**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -38,11 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
-###
-
-<p align="left">What I Want to Learn</p>
-
-###
+### **🏴‍☠️What I Want to Learn**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -62,11 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
-
-<p align="left">Tools</p>
-
-###
+### **🔨Tools**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -77,5 +64,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div?
-
-###
