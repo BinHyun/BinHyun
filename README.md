@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
-
+<!--
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
 
@@ -122,3 +122,4 @@ JavaScript               1 repo              ██████░░░░░�
 
  Last Updated on 08/03/2025 18:43:47 UTC
 <!--END_SECTION:waka-->
+-->
