@@ -1,5 +1,5 @@
 <!--타이틀-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Bin+Hyun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World)](https://git.io/typing-svg)
 
 <!--스탯-->
 | <img src="https://github-readme-stats.vercel.app/api?username=BinHyun&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats" style="height: 200px;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinHyun&layout=compact&title_color=4C77FF" alt="Top Languages" style="height: 200px;" /> |
