@@ -12,12 +12,15 @@
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/JS.png" width="40" title="JavaScript" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/python_icon.png" width="40" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/nexacro.png" width="40" title="Nexacro" />
 </p>
 
 <p align="center">
   <sub><b>HTML</b></sub> &nbsp;&nbsp;&nbsp;
   <sub><b>CSS</b></sub> &nbsp;&nbsp;&nbsp;
   <sub><b>JavaScript</b></sub> &nbsp;&nbsp;&nbsp;
-  <sub><b>Python</b></sub>
+  <sub><b>Python</b></sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>Nexacro</b></sub>
 </p>
 
