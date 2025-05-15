@@ -1,5 +1,24 @@
 <!--타이틀-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!)](https://git.io/typing-svg)
+
+<!-- 💻 내가 할 수 있는 것 -->
+## 💻 What I Can Do
+
+<p align="center">
+  <img src="assets/icons/html.png" width="40" title="HTML" alt="HTML Icon"/>
+  <img src="assets/icons/css.png" width="40" title="CSS" alt="CSS Icon"/>
+  <img src="assets/icons/javascript.png" width="40" title="JavaScript" alt="JavaScript Icon"/>
+  <img src="assets/icons/python.png" width="40" title="Python" alt="Python Icon"/>
+</p>
+
+<p align="center">
+  <b>HTML</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CSS</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b>
+</p>
+
+
 
 <!--스탯-->
 | <img src="https://github-readme-stats.vercel.app/api?username=BinHyun&show_icons=true&title_color=4C77FF&icon_color=4C77FF" alt="GitHub Stats" style="height: 200px;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinHyun&layout=compact&title_color=4C77FF" alt="Top Languages" style="height: 200px;" /> |
