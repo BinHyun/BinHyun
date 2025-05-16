@@ -7,7 +7,7 @@
 <p align="center">
   <p>
     <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/HTML_icon.png" width="40" title="HTML" />&nbsp;&nbsp;
-    <sub><b>HTML</b></sub>&nbsp;&nbsp;&nbsp;
+    <b>HTML</b>
   </p>
   
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/CSS_icon.png" width="40" title="CSS" />
