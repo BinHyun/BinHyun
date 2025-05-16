@@ -1,7 +1,7 @@
 <!--타이틀-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!)](https://git.io/typing-svg)
 
-<!--  -->
+<!--💡 Tech Stack & Experience-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
 
 <p align="center">
@@ -24,6 +24,20 @@
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/MS_SQL_icon.png" width="40" title="MS SQL" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/NEXACRO_icon.png" width="40" title="Nexacro" />
+</p>
+
+<br>
+
+<!--🌱 What I’m Learning-->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%8C%B1+What+I%E2%80%99m+Learning)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/DART_icon.png" width="40" title="Dart" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/FLUTTER_icon.png" width="40" title="Flutter" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/LINUX_icon.png" width="40" title="Linux" />
+  &nbsp;&nbsp;
 </p>
 
 <br>
