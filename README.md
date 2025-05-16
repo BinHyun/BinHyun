@@ -23,7 +23,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%9B%A0+Technologies+I've+Used)](https://git.io/typing-svg)
 
 <p align="">
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/python_icon.png" width="40" title="Python" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/PYTHON.png" width="40" title="Python" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/nexacro.png" width="40" title="Nexacro" />
 </p>
