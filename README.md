@@ -5,9 +5,9 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
 
 <p align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/HTML_icon.png" width="40" title="HTML" />
-    <b>HTML</b>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/HTML_icon.png" width="40" title="HTML" />&nbsp;&nbsp;
+    <sub><b>HTML</b></sub>
   </p>
   
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/CSS_icon.png" width="40" title="CSS" />
