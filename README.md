@@ -27,12 +27,18 @@
 <p align="">
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/PYTHON.png" width="40" title="Python" />
   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/JAVA.png" width="40" title="JAVA" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/C#_icon.png" width="40" title="C#" />
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/nexacro.png" width="40" title="Nexacro" />
 </p>
 
 <p align="">
   <sub><b>Python</b></sub> &nbsp;&nbsp;&nbsp;
-  <sub><b>Nexacro</b></sub>
+  <sub><b>JAVA</b></sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>C#</b></sub> &nbsp;&nbsp;&nbsp;
+  <sub><b>Nexacro</b></sub> &nbsp;&nbsp;&nbsp;
 </p>
 
 <!--START_SECTION:waka-->
