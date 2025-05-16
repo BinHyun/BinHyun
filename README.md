@@ -5,11 +5,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
 
 <p align="center">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/HTML_icon.png" width="40" title="HTML" />&nbsp;&nbsp;
-    <sub><b>HTML</b></sub>
-  </p>
-  
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/HTML_icon.png" width="40" title="HTML" />
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/CSS_icon.png" width="40" title="CSS" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/JS_icon.png" width="40" title="JavaScript" />
@@ -27,28 +24,6 @@
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/MS_SQL_icon.png" width="40" title="MS SQL" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/NEXACRO_icon.png" width="40" title="Nexacro" />
-</p>
-
-<p align="center">
-  <sub><b>HTML</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>CSS</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>JavaScript</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>Python</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>Java</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>C#</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>Spring</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>Oracle SQL</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>MS SQL</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <sub><b>Nexacro</b></sub>
 </p>
 
 <br>
