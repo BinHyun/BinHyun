@@ -11,15 +11,24 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/JS.png" width="40" title="JavaScript" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/python_icon.png" width="40" title="Python" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/nexacro.png" width="40" title="Nexacro" />
 </p>
 
 <p align="">
   <sub><b>HTML</b></sub> &nbsp;&nbsp;&nbsp;
   <sub><b>CSS</b></sub> &nbsp;&nbsp;&nbsp;
   <sub><b>JavaScript</b></sub> &nbsp;&nbsp;&nbsp;
+</p>
+
+<!-- 🛠 경험해 본 기술들 -->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%9B%A0+Technologies+I've+Used)](https://git.io/typing-svg)
+
+<p align="">
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/python_icon.png" width="40" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/nexacro.png" width="40" title="Nexacro" />
+</p>
+
+<p align="">
   <sub><b>Python</b></sub> &nbsp;&nbsp;&nbsp;
   <sub><b>Nexacro</b></sub>
 </p>
