@@ -19,6 +19,9 @@
   <sub><b>JavaScript</b></sub> &nbsp;&nbsp;&nbsp;
 </p>
 
+<br><br>
+<br><br>
+
 <!-- 🛠 경험해 본 기술들 -->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%9B%A0+Technologies+I've+Used)](https://git.io/typing-svg)
 
