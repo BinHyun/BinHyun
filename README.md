@@ -29,7 +29,7 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/JAVA.png" width="40" title="JAVA" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/C#_icon.png" width="40" title="C#" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/C_Sharp_icon.png" width="40" title="C#" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/nexacro.png" width="40" title="Nexacro" />
 </p>
