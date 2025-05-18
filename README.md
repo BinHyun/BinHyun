@@ -11,6 +11,8 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/javascript-48.png" width="40" title="JavaScript" />
   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/jquery-48.png" width="40" title="Jquery" />
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/python-48.png" width="40" title="Python" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/java-48.png" width="40" title="Java" />
@@ -23,7 +25,7 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/microsoft-sql-server-48.png" width="40" title="MS SQL" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/NEXACRO_icon.png" width="40" title="Nexacro" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/Nexacro.png" width="40" title="Nexacro" />
 </p>
 
 <br>
@@ -35,6 +37,12 @@
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/dart-48.png" width="40" title="Dart" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/flutter-48.png" width="40" title="Flutter" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/swift-48.png" width="40" title="Swift" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/docker-48.png" width="40" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/node-js-48.png" width="40" title="Node js" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/linux-48.png" width="40" title="Linux" />
   &nbsp;&nbsp;
