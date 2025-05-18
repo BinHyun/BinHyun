@@ -1,8 +1,10 @@
 <!--타이틀-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!)](https://git.io/typing-svg)
 
-<!--💡 Tech Stack & Experience-->
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
+<div align="center">
+  <!--💡 Tech Stack & Experience-->
+  ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/html5-48.png" width="40" title="HTML" />
@@ -73,7 +75,7 @@
 <!--🧮 Coding Summary by WakaTime-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%A7%AE+Coding+Summary+by+WakaTime)](https://git.io/typing-svg)
 
-<div align='center'>
+<div align="center">
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </div>
