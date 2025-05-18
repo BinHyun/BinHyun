@@ -5,38 +5,38 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/HTML_icon.png" width="40" title="HTML" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/html5-48.png" width="40" title="HTML" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/CSS_icon.png" width="40" title="CSS" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/css-48.png" width="40" title="CSS" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/JS_icon.png" width="40" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/javascript-48.png" width="40" title="JavaScript" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/PYTHON_icon.png" width="40" title="Python" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/python-48.png" width="40" title="Python" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/JAVA_icon.png" width="40" title="Java" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/java-48.png" width="40" title="Java" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/C_Sharp_icon.png" width="40" title="C#" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/c-48.png" width="40" title="C#" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/SPRING_icon.png" width="40" title="Spring" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/spring-boot-48.png" width="40" title="Spring" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/ORACLE_SQL_icon.png" width="40" title="Oracle SQL" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/Oracle-SQL.png" width="40" title="Oracle SQL" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/MS_SQL_icon.png" width="40" title="MS SQL" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/microsoft-sql-server-48.png" width="40" title="MS SQL" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/NEXACRO_icon.png" width="40" title="Nexacro" />
 </p>
 
 <br>
 
-<!--🌱 What I’m Learning-->
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%8C%B1+What+I%E2%80%99m+Learning)](https://git.io/typing-svg)
+<!--🌟 Technologies I’m Interested In-->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%8C%9F+Technologies+I%E2%80%99m+Interested+In)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/DART_icon.png" width="40" title="Dart" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/dart-48.png" width="40" title="Dart" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/FLUTTER_icon.png" width="40" title="Flutter" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/flutter-48.png" width="40" title="Flutter" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/LINUX_icon.png" width="40" title="Linux" />
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/linux-48.png" width="40" title="Linux" />
   &nbsp;&nbsp;
 </p>
 
