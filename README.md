@@ -50,5 +50,25 @@
 
 <br>
 
+<!--🧰 Tools I’ve Used-->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%A7%B0+Tools+I%E2%80%99ve+Used)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/visual-studio-code-48.png" width="40" title="visualstudio code" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/visual-studio-48.png" width="40" title="visualstudio" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/eclipse-logo-48.png" width="40" title="eclipse" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/github-48.png" width="40" title="github" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/trello-48.png" width="40" title="trello" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/slack-48.png" width="40" title="slack" />
+  &nbsp;&nbsp;
+</p>
+
+<br>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
