@@ -73,7 +73,5 @@
 <!--🧮 Coding Summary by WakaTime-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%A7%AE+Coding+Summary+by+WakaTime)](https://git.io/typing-svg)
 
-<br>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
