@@ -1,10 +1,9 @@
 <!--타이틀-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!)](https://git.io/typing-svg)
 
-<div align="center">
-  <!--💡 Tech Stack & Experience-->
-  ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
-</div>
+<!--💡 Tech Stack & Experience-->
+##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/html5-48.png" width="40" title="HTML" />
@@ -33,7 +32,7 @@
 <br>
 
 <!--🌟 Technologies I’m Interested In-->
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%8C%9F+Technologies+I%E2%80%99m+Interested+In)](https://git.io/typing-svg)
+##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%8C%9F+Technologies+I%E2%80%99m+Interested+In)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/dart-48.png" width="40" title="Dart" />
@@ -53,7 +52,7 @@
 <br>
 
 <!--🧰 Tools I’ve Used-->
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%A7%B0+Tools+I%E2%80%99ve+Used)](https://git.io/typing-svg)
+##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%A7%B0+Tools+I%E2%80%99ve+Used)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BinHyun/BinHyun/main/assets/icons/visual-studio-code-48.png" width="40" title="visualstudio code" />
@@ -73,7 +72,7 @@
 <br>
 
 <!--🧮 Coding Summary by WakaTime-->
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%A7%AE+Coding+Summary+by+WakaTime)](https://git.io/typing-svg)
+##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&repeat=false&width=435&lines=%F0%9F%A7%AE+Coding+Summary+by+WakaTime)](https://git.io/typing-svg)
 
 <div align="center">
   <!--START_SECTION:waka-->
