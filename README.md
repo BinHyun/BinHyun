@@ -1,18 +1,9 @@
 <!--타이틀-->
-<br>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Doto&size=30&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!" alt="Typing SVG" />
-  </a>
-</p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Doto&size=35&pause=1000&color=32CD32&repeat=false&width=435&lines=Happy+Coding%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
-
 
 <!--💡 Tech Stack & Experience-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=F4A261&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
