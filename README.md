@@ -3,6 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!)](https://git.io/typing-svg)
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!" alt="Typing SVG" />
+  </a>
+</p>
+
 <!--💡 Tech Stack & Experience-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=F4A261&repeat=false&width=435&lines=%F0%9F%92%A1+Tech+Stack+%26+Experience)](https://git.io/typing-svg)
 
