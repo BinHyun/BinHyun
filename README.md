@@ -1,11 +1,7 @@
 <!--타이틀-->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!)](https://git.io/typing-svg)
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Doto&size=50&pause=1000&color=FFFFFF&width=435&lines=Happy+Coding!" alt="Typing SVG" />
   </a>
 </p>
 
