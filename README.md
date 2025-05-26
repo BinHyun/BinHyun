@@ -78,6 +78,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=FBC531&repeat=false&width=435&lines=%F0%9F%A7%AE+Coding+Summary+by+WakaTime)](https://git.io/typing-svg)
 
 <div align="center">
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2044%20mins-blue)
 
@@ -114,4 +115,5 @@ Mac                      18 mins             ███████████�
 
  Last Updated on 26/05/2025 15:18:04 UTC
 <!--END_SECTION:waka-->
+
 </div>
