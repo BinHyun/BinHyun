@@ -116,6 +116,4 @@ Mac                      18 mins             ███████████�
  Last Updated on 26/05/2025 15:18:04 UTC
 <!--END_SECTION:waka-->
 
-![Code::Stats](https://codestats.net/users/binhk)
-
 </div>
